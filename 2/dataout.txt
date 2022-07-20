@@ -1,0 +1,10 @@
+Number of material types: 9
+9/Truck - 2 units in stock - 3 units needed
+2/Tire - 5 units in stock - 70 units needed
+3/Rim - 3 units in stock - 70 units needed
+4/Piston - 3 units in stock - 52 units needed
+5/Belt - 2 units in stock - 26 units needed
+6/Wheel - 10 units in stock - 70 units needed
+7/Engine - 2 units in stock - 13 units needed
+8/Car - 5 units in stock - 10 units needed
+1/Glass - 3 units in stock - 69 units needed
